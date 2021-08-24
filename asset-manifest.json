@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f43b8ed2.chunk.css",
-    "main.js": "/static/js/main.d27ecd44.chunk.js",
-    "main.js.map": "/static/js/main.d27ecd44.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3011c268.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3011c268.js.map",
-    "static/js/2.fb3e1297.chunk.js": "/static/js/2.fb3e1297.chunk.js",
-    "static/js/2.fb3e1297.chunk.js.map": "/static/js/2.fb3e1297.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f43b8ed2.chunk.css.map": "/static/css/main.f43b8ed2.chunk.css.map",
-    "static/js/2.fb3e1297.chunk.js.LICENSE.txt": "/static/js/2.fb3e1297.chunk.js.LICENSE.txt",
-    "static/media/insert-image.66608ba4.png": "/static/media/insert-image.66608ba4.png",
-    "static/media/loading-image.3cdd3a7c.png": "/static/media/loading-image.3cdd3a7c.png",
-    "static/media/logo2.81d3752c.png": "/static/media/logo2.81d3752c.png"
+    "main.css": "/recipes-react-redux/static/css/main.f43b8ed2.chunk.css",
+    "main.js": "/recipes-react-redux/static/js/main.d27ecd44.chunk.js",
+    "main.js.map": "/recipes-react-redux/static/js/main.d27ecd44.chunk.js.map",
+    "runtime-main.js": "/recipes-react-redux/static/js/runtime-main.258069b5.js",
+    "runtime-main.js.map": "/recipes-react-redux/static/js/runtime-main.258069b5.js.map",
+    "static/js/2.fb3e1297.chunk.js": "/recipes-react-redux/static/js/2.fb3e1297.chunk.js",
+    "static/js/2.fb3e1297.chunk.js.map": "/recipes-react-redux/static/js/2.fb3e1297.chunk.js.map",
+    "index.html": "/recipes-react-redux/index.html",
+    "static/css/main.f43b8ed2.chunk.css.map": "/recipes-react-redux/static/css/main.f43b8ed2.chunk.css.map",
+    "static/js/2.fb3e1297.chunk.js.LICENSE.txt": "/recipes-react-redux/static/js/2.fb3e1297.chunk.js.LICENSE.txt",
+    "static/media/insert-image.66608ba4.png": "/recipes-react-redux/static/media/insert-image.66608ba4.png",
+    "static/media/loading-image.3cdd3a7c.png": "/recipes-react-redux/static/media/loading-image.3cdd3a7c.png",
+    "static/media/logo2.81d3752c.png": "/recipes-react-redux/static/media/logo2.81d3752c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3011c268.js",
+    "static/js/runtime-main.258069b5.js",
     "static/js/2.fb3e1297.chunk.js",
     "static/css/main.f43b8ed2.chunk.css",
     "static/js/main.d27ecd44.chunk.js"
